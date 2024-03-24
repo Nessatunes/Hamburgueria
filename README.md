@@ -18,4 +18,5 @@ Ao abrir o site, o usuário deve inserir seu pedido e seu nome, para iniciar o p
 
 Este projeto foi desenvolvido com Node.js e React.js, utilizando Styled Components para estilização.
 
-<img src="./src/assets/foto.jpg">
+![Texto alternativo](https://github.com/Nessatunes/Hamburgueria/blob/main/react-hamburguria/src/assets/foto.jpg)
+
